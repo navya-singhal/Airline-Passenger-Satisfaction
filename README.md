@@ -68,11 +68,11 @@ pip install -r requirements.txt
 
 ###**Run Jupyter Notebook**
 jupyter notebook Final_Project_Airline_Satisfaction.ipynb
-```bash
+```
 
 ⸻
 
-**Contributors**
+## **Contributors**
 - Navya Singhal
 - Alex Parson
 - Ammar Mustafa
