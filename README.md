@@ -89,7 +89,7 @@ jupyter notebook Final_Project_Airline_Satisfaction.ipynb
 
 airline-passenger-satisfaction/
 
-─ Final_Project_Airline_Satisfaction.ipynb  # Main ML model & analysis
+- Final_Project_Airline_Satisfaction.ipynb  # Main ML model & analysis
 ─ train.csv  # Training dataset
 - test.csv  # Testing dataset
 - Airline Passenger Satisfaction_DS Project.pdf  # Detailed report
