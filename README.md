@@ -87,15 +87,14 @@ jupyter notebook Final_Project_Airline_Satisfaction.ipynb
 
 **Repository Structure**
 
-📦 airline-passenger-satisfaction
- ┣ 📜 Final_Project_Airline_Satisfaction.ipynb  # Main ML model & analysis
- ┣ 📜 train.csv  # Training dataset
- ┣ 📜 test.csv  # Testing dataset
- ┣ 📜 Airline Passenger Satisfaction_DS Project.pdf  # Detailed report
- ┣ 📜 Airline Passenger Satisfaction (Group 1).pdf  # Supporting documentation
- ┣ 📜 README.md  # Project overview & usage guide
- ┗ 📜 requirements.txt  # Dependencies
-
+airline-passenger-satisfaction/
+│── Final_Project_Airline_Satisfaction.ipynb  # Main ML model & analysis
+│── train.csv  # Training dataset
+│── test.csv  # Testing dataset
+│── Airline Passenger Satisfaction_DS Project.pdf  # Detailed report
+│── Airline Passenger Satisfaction (Group 1).pdf  # Supporting documentation
+│── README.md  # Project overview & usage guide
+└── requirements.txt  # Dependencies
 
 ---
 
