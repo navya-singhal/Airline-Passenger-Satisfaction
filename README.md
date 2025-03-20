@@ -63,10 +63,10 @@ We tested multiple classification models:
 git clone https://github.com/your-username/airline-passenger-satisfaction.git
 cd airline-passenger-satisfaction
 
-### **Install dependencies**
+### Install dependencies
 pip install -r requirements.txt
 
-###**Run Jupyter Notebook**
+### Run Jupyter Notebook
 jupyter notebook Final_Project_Airline_Satisfaction.ipynb
 ```
 
