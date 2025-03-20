@@ -74,7 +74,7 @@ pip install -r requirements.txt
 jupyter notebook Final_Project_Airline_Satisfaction.ipynb
 ```
 
-⸻
+---
 
 ## **Contributors**
 - Navya Singhal
@@ -83,7 +83,7 @@ jupyter notebook Final_Project_Airline_Satisfaction.ipynb
 - Isha Verma
 - Theresa Sushil
 
-⸻
+---
 
 **Repository Structure**
 
@@ -97,8 +97,7 @@ jupyter notebook Final_Project_Airline_Satisfaction.ipynb
  ┗ 📜 requirements.txt  # Dependencies
 
 
-⸻
-
+---
 
 ### **Key Enhancements:**
 - **More structured & professional format**
