@@ -1,7 +1,7 @@
 # ✈ Airline Passenger Satisfaction Prediction
 
 ## **Project Overview**
-This project analyzes a **passenger satisfaction dataset** from a US airline to predict whether travelers are satisfied or dissatisfied. Using **machine learning models**, we identify key factors that impact satisfaction and propose actionable insights for airlines to enhance customer experience.
+This project analyzes a **passenger satisfaction dataset** from a US airline to predict whether travelers are satisfied or dissatisfied. Using machine learning models, we identify key factors that impact satisfaction and propose actionable insights for airlines to enhance customer experience.
 
 ### **Goal**
 To develop a **classification model** that predicts passenger satisfaction based on **travel experience, demographics, and flight details**.
@@ -88,6 +88,7 @@ jupyter notebook Final_Project_Airline_Satisfaction.ipynb
 **Repository Structure**
 
 airline-passenger-satisfaction/
+
 ─ Final_Project_Airline_Satisfaction.ipynb  # Main ML model & analysis
 ─ train.csv  # Training dataset
 - test.csv  # Testing dataset
